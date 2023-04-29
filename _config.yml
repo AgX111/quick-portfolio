@@ -1,13 +1,18 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Danish-Portfolio # your name (or website title) here
+logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  3rd Year Undergrad at Kalinga Institute<br>
+  of Industrial Technology (Kiit) 
   <br><br>
-  Second description 
+  <u><b>Proficient At-<u><b><br>
+  Machine Learning/Data Science<br>
+  (Numpy,Pandas,Plotly,scikit-learn)
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Active Coder at various Online Judges
+  <br><br>
+  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
