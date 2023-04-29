@@ -2,14 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects 
 
-[Project 1 Title](/sample_page)
+[Heart-disease detection using Random-Forest Classifier](/sample_page)
+<p style="font-size:11px">Link to Project <a href="[https://github.com/evanca/quick-portfolio](https://colab.research.google.com/drive/1JHLEQDlzqN2tDwggbXCsu8ZK-XcK4q39?usp=sharing)">Model</a></p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<!--
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 
 ---
 [Project 3 Title](http://example.com/)
@@ -31,5 +36,8 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> 
+
+-->
+
 <!-- Remove above link if you don't want to attibute -->
