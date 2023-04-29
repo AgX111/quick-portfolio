@@ -4,13 +4,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   3rd Year Undergrad at Kalinga Institute<br>
   of Industrial Technology (Kiit) 
   <br><br>
-  <u><b>Proficient At-<u><b><br>
+  <u><b>Proficient At-</u><b><br>
   Machine Learning/Data Science<br>
   (Numpy,Pandas,Plotly,scikit-learn)
   <br><br>
   Active Coder at various Online Judges
   <br><br>
-  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
